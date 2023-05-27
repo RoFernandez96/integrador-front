@@ -1,0 +1,33 @@
+
+.forms{
+    margin: 150px 500px 0px 527px;
+    padding: 150px;
+    background: #ebe7e3a0;
+    position: fixed;
+}
+
+.button{
+    width: 100%
+}
+
+.email{
+    width: 216px;
+    padding: 1px;
+    
+}
+
+.emailL{
+    font-family: cursive;
+
+}
+.password{
+    width: 100%;
+
+    ;
+
+}
+
+.passwordP{
+    font-family: cursive;
+    
+}

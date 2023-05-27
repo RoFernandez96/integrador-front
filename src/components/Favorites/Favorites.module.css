@@ -1,0 +1,31 @@
+.contenedor{
+    padding: 3rem;
+    max-width: 468px;
+    margin: inherit;
+    margin-top: 0rem;
+    /* position: absolute; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+    
+
+}
+
+.contenedor1{
+    width: 100px;
+    margin: inherit;
+    height: 40px;
+    padding: 68px;
+   
+
+}
+
+.button{
+    width: 100px;
+    
+}
+
+.button1{
+    width: 100px;
+    margin-top: 15px;
+}

@@ -1,0 +1,22 @@
+.card{
+    /* background-image: url('../../Image/BackCard.png'); */
+    background-color: rgba(177, 178, 166, 0.903);
+    border-radius: 10px;
+    margin: inherit;
+}
+
+.image{
+    
+    width: 100%;
+    padding: 1rem;
+}
+
+.info h2{
+    padding: 0.3rem;
+    
+}
+
+.button{
+    width: 370px;
+    border-radius: 10px;
+}

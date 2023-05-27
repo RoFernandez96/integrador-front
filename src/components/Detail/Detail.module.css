@@ -1,0 +1,8 @@
+.contenedor{
+    background-color:  rgba(177, 178, 166, 0.903);
+    gap: 3rem;
+    padding: 4rem;
+    max-width: 550px;
+    margin: auto;
+    margin-top: 6rem;
+}
